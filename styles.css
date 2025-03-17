@@ -50,3 +50,8 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
+.about, .contact, .forum, .events, .resources {
+    padding: 50px;
+    text-align: center;
+}
